@@ -14,14 +14,14 @@ Lifelong learner who is always improving.
 ## My tech stack
 
 ### Backend
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,bash&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,nodejs,npm,bash&perline=10)](https://skillicons.dev)
 ### Database
   [![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo&perline=10)](https://skillicons.dev)
   ![Couchbase](https://avatars.githubusercontent.com/u/605755?s=50&v=4)
 ### Message Brokers
   [![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq&perline=10)](https://skillicons.dev)
 ### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=ts,npm,nodejs,angular&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,angular&perline=10)](https://skillicons.dev)
 ### Cloud
   [![My Skills](https://skillicons.dev/icons?i=aws&perline=10)](https://skillicons.dev)
 ### Tools
