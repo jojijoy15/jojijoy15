@@ -7,6 +7,10 @@ Professionlly, I am a fullstack 👨‍💻 with more than 4 years of experience
 Love designing software and solving problems.
 Lifelong learner who is always improving.
 
+## Notes
+
+- I love making notes. Its still a work in progress. You can read them [here](https://anon-coders-notes.gitbook.io/anondevsdocs)
+
 ## My tech stack
 
 ### Backend
