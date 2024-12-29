@@ -18,6 +18,10 @@ Lifelong learner who is always improving.
 ### Database
   [![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo&perline=10)](https://skillicons.dev)
   ![Couchbase](https://avatars.githubusercontent.com/u/605755?s=50&v=4)
+### Process Automation
+  ![JPBM](https://www.jbpm.org/headerFooter/jBPMLogo_siteheader.png)
+  <img src="https://docs.camunda.org/manual/7.22/img/orange-C.png" width=50 alt="Camunda"/>
+  
 ### Message Brokers
   [![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq&perline=10)](https://skillicons.dev)
 ### Frontend
