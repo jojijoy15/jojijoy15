@@ -9,7 +9,7 @@ Lifelong learner who is always improving.
 
 ## Notes
 
-- I love making notes. Its still a work in progress. You can read them [here](https://anon-coders-notes.gitbook.io/anondevsdocs)
+- I love making notes. Its still a work in progress. You can read them [here](https://anon-coders-notes.gitbook.io/techwriterdev)
 
 ## My tech stack
 
