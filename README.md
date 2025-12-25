@@ -19,8 +19,10 @@ Lifelong learner who is always improving.
   [![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,cassandra&perline=10)](https://skillicons.dev "postgres,redis,mongo,cassandra")
   ![Couchbase](https://avatars.githubusercontent.com/u/605755?s=50&v=4 "couchbase")
 ### Process Automation
-  ![JPBM](https://www.jbpm.org/headerFooter/jBPMLogo_siteheader.png "jbpm") 
+<div style="flex">
+  <img src="https://docs.jbpm.org/7.20.0.Final/jbpm-docs/html_single/logos/jBPMLogo.png" width=120 alt="jBPM" title="jBPM"/> 
   <img src="https://docs.camunda.org/manual/7.22/img/orange-C.png" width=50 alt="Camunda" title="Camunda"/>
+</div>
   
 ### Message Brokers
   [![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq&perline=10)](https://skillicons.dev "kafka,rabbitmq")
