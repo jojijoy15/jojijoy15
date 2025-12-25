@@ -30,7 +30,3 @@ Lifelong learner who is always improving.
   [![My Skills](https://skillicons.dev/icons?i=aws&perline=10)](https://skillicons.dev "aws")
 ### Tools
   [![My Skills](https://skillicons.dev/icons?i=git,postman,docker,jenkins,kubernetes&perline=10)](https://skillicons.dev "git,postman,docker,jenkins,kubernetes")
-
-## Gihub Stats
-
-![Joji's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojijoy15&show_icons=true&theme=dark)
