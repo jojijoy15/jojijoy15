@@ -3,7 +3,7 @@ Hey folks,
 ## About Me
 
 I am Joji Joy, welcome to my profile.<br>
-Professionally, I am a fullstack 👨‍💻 with more than 5 years of experience, who is also a certified [AWS developer associate](https://www.credly.com/badges/b1540dce-12f2-4121-907c-eb0a0b61f309).<br>
+Professionally, I am a fullstack 👨‍💻 with more than 5 years of experience, who is also an certified [AWS developer associate](https://www.credly.com/badges/b1540dce-12f2-4121-907c-eb0a0b61f309).<br>
 Love designing software and solving problems.
 Lifelong learner who is always improving.
 
